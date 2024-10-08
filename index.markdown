@@ -6,7 +6,7 @@ title: Ruby presentations
 
 ## Javascript
 
-- [Функції](rubygarage.github.com/slides/javascript/functions)
+- [Функції](/slides/javascript/functions)
   <br>
   <small>Будівельні одиниці блоку, що призначені для виконання певних завдань.</small>
 
