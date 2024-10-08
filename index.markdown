@@ -3,7 +3,14 @@ layout: page
 title: Ruby presentations
 ---
 
-## Ruby
+
+## Javascript
+
+- [Функції](rubygarage.github.com/slides/javascript/functions)
+  <br>
+  <small>Будівельні одиниці блоку, що призначені для виконання певних завдань.</small>
+
+<!-- ## Ruby
 
 - [Introduction](/slides/introduction)
   <br>
@@ -50,7 +57,7 @@ title: Ruby presentations
   <br>
   <small>Learn how to do refactoring in Ruby.</small> -->
 
-- [Refactoring](/slides/refactoring-ruby)
+<!-- - [Refactoring](/slides/refactoring-ruby)
   <br>
   <small>Clean code is code that is easy to read, understand and maintain. </small>
 
@@ -89,7 +96,7 @@ title: Ruby presentations
 
 - [Views](/slides/views)
   <br>
-  <small>Views in Rails</small>
+  <small>Views in Rails</small> -->
 
 <!--
 - [HTML & CSS](/slides/html-css)
@@ -102,7 +109,7 @@ title: Ruby presentations
   <small>Modules, Semantics and Grids</small>
 -->
 
-- [BDD in Rails](/slides/bdd)
+<!-- - [BDD in Rails](/slides/bdd)
   <br>
   <small>Learn how to do behavior-driven development in Rails.</small>
 
@@ -129,7 +136,7 @@ title: Ruby presentations
 
 - [Sidekiq](/slides/sidekiq)
   <br>
-  <small>Background jobs processing.</small>
+  <small>Background jobs processing.</small> -->
 
 <!--
 ## Trailblazer
@@ -168,7 +175,7 @@ title: Ruby presentations
 -->
 
 
-## Utils
+<!-- ## Utils
 
 - [Git](/slides/git)
   <br>
@@ -191,7 +198,7 @@ title: Ruby presentations
 
 - [AWS](/slides/aws)
   <br>
-  <small>Amazon Web Services</small>
+  <small>Amazon Web Services</small> -->
 
 <!--
 # Additional
@@ -201,6 +208,6 @@ title: Ruby presentations
   <small>Functional programming is a style of programming which models computations as the evaluation of expressions.</small>
 -->
 
+<!-- <br>
 <br>
-<br>
-<br>
+<br> -->

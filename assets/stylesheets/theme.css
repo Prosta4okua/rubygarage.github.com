@@ -66,14 +66,14 @@ a:hover img {
 }
 
 .rubygarage-logo {
-  background: url(/assets/images/rubygarage.svg) no-repeat 0 0 transparent;
-  display: block;
-  height: 45px;
+  /* background: url(/assets/images/good-logo.svg) no-repeat 0 0 transparent; */
+  /* display: block;
+  height: 80%;
   left: 10px;
   position: fixed;
   top: 10px;
-  width: 150px;
-  z-index: 15;
+  width: 80%;
+  z-index: 15; */
 }
 
 .reveal a {
